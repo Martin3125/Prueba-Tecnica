@@ -41,4 +41,4 @@ Ambas versiones del código (Python y JavaScript):
 ### Python
 
 ```bash
-python conversor_hora.py
+python prueba_tecnica1_Martín_Soto_Contreras.py

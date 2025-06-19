@@ -36,9 +36,15 @@ Ambas versiones del código (Python y JavaScript):
 
 ---
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 ### Python
 
 ```bash
 python prueba_tecnica1_Martín_Soto_Contreras.py
+
+---
+
+```bash
+node prueba_tecnica1_Martín_Soto_Contreras.js
+

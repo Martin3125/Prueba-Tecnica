@@ -42,9 +42,8 @@ Ambas versiones del código (Python y JavaScript):
 
 ```bash
 python prueba_tecnica1_Martín_Soto_Contreras.py
-
----
-
+```
+### JavaScript        
 ```bash
 node prueba_tecnica1_Martín_Soto_Contreras.js
 
